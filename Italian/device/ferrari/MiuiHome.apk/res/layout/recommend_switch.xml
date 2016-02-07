@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.miui.home.launcher.NonOverlapLinearLayout android:gravity="center_horizontal" android:id="@id/recommend_apps_switch" android:background="@drawable/recommend_background" android:paddingTop="@dimen/recommend_switch_padding_top" android:paddingBottom="@dimen/recommend_switch_padding_bottom" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="15.0sp" android:textColor="@color/folder_title_text" android:gravity="center|left" android:layout_gravity="center|left" android:paddingRight="@dimen/recommend_switch_summary_padding_right" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/recommend_apps_switch_title" android:singleLine="false" android:layout_weight="1.0" />
-    <miui.widget.SlidingButton android:layout_gravity="center|right" android:id="@id/switch_button" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@miui:style/Widget.Dark.SlidingButton" />
-</com.miui.home.launcher.NonOverlapLinearLayout>
