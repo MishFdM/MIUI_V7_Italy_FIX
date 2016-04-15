@@ -14,7 +14,7 @@
     <favorite launcher:className="cn.com.wo.ui.TipActivity" launcher:packageName="cn.com.wo" launcher:screen="1" launcher:x="0" launcher:y="2" />
     <favorite launcher:className="cn.com.wo.UsageActivity" launcher:packageName="cn.com.wo" launcher:screen="1" launcher:x="0" launcher:y="2" />
     <favorite launcher:className="com.android.camera.Camera" launcher:packageName="com.android.camera" launcher:screen="1" launcher:x="1" launcher:y="2" />
-    <favorite launcher:className="com.miui.gallery.app.Gallery" launcher:packageName="com.miui.gallery" launcher:screen="1" launcher:x="2" launcher:y="2" />
+    <favorite launcher:className="com.miui.gallery.activity.HomePageActivity" launcher:packageName="com.miui.gallery" launcher:screen="1" launcher:x="2" launcher:y="2" />
     <favorite launcher:className="com.android.thememanager.ThemeResourceTabActivity" launcher:packageName="com.android.thememanager" launcher:screen="1" launcher:x="0" launcher:y="3" />
     <favorite launcher:className="com.android.browser.BrowserActivity" launcher:packageName="com.android.browser" launcher:screen="1" launcher:x="1" launcher:y="3" />
     <favorite launcher:className="com.android.settings.MiuiSettings" launcher:packageName="com.android.settings" launcher:screen="1" launcher:x="2" launcher:y="3" />
@@ -36,7 +36,6 @@
     <favorite launcher:className="com.android.providers.downloads.ui.DownloadList" launcher:packageName="com.android.providers.downloads.ui" launcher:container="1" launcher:x="14" launcher:y="0" />
     <favorite launcher:className="com.xiaomi.tag.MiTagActivity" launcher:packageName="com.xiaomi.tag" launcher:container="1" launcher:x="15" launcher:y="0" />
     <favorite launcher:className="com.miui.barcodescanner.activity.CaptureActivity" launcher:packageName="com.miui.barcodescanner" launcher:container="1" launcher:x="16" launcher:y="0" />
-    <shortcut launcher:className="com.miui.virtualsim.ui.MainActivity" launcher:packageName="com.miui.virtualsim" launcher:container="1" launcher:x="17" launcher:y="0" launcher:title="com.miui.virtualsim:string/app_name" launcher:iconResource="com.miui.virtualsim:drawable/icon" />
     <favorite launcher:className="cn.com.smartdevices.bracelet.activity.MainActivity" launcher:packageName="com.xiaomi.hm.health" launcher:container="1" launcher:x="18" launcher:y="0" />
     <favorite launcher:className="com.miui.bugreport.ui.MainActivity" launcher:packageName="com.miui.bugreport" launcher:container="1" launcher:x="19" launcher:y="0" />
     <favorite launcher:className="com.miui.securityscan.MainActivity" launcher:packageName="com.miui.securitycenter" launcher:screen="2" launcher:x="2" launcher:y="0" />
