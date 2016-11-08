@@ -1,0 +1,40 @@
+{
+    "message": "success",
+    "random_color": true,
+    "result": [
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Miui.it",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Xiaomifans.it",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "MIUI",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "En.miui.com",
+            "type": "unknown",
+            "url": ""
+        }
+    ],
+    "status": 0,
+    "track_id": ""
+}
