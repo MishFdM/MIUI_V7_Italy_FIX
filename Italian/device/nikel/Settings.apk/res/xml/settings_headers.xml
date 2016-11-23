@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <preference-headers
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <header android:icon="@drawable/ic_my_device" android:id="@id/my_device" android:title="@string/my_device" android:fragment="com.android.settings.device.MiuiDeviceDetailSettings" />
     <header android:id="@id/wireless_section" android:title="@string/header_category_wireless_networks" />
     <header android:icon="@drawable/ic_airplane_mode_settings" android:id="@id/airplane_mode_settings" android:title="@string/airplane_mode" android:fragment="com.android.settings.WirelessSettings" />
     <header android:icon="@drawable/ic_settings_dualsim" android:id="@id/msim_settings" android:title="@string/sim_management_title">
@@ -86,5 +85,5 @@
     <header android:icon="@android:drawable/ic_print" android:id="@id/print_settings" android:title="@string/print_settings" android:fragment="com.android.settings.print.PrintSettingsFragment" />
     <header />
     <header android:icon="@drawable/ic_development_settings" android:id="@id/development_settings" android:title="@string/development_settings_title" android:fragment="com.android.settings.DevelopmentSettings" />
-    <header android:icon="@drawable/ic_about_settings" android:id="@id/about_settings" android:title="@string/about_settings" android:fragment="com.android.settings.device.MiuiDeviceInfoSettings" />
+    <header android:icon="@drawable/ic_about_settings" android:id="@id/about_settings" android:title="@string/about_settings" android:fragment="com.android.settings.MiuiDeviceInfoSettings" />
 </preference-headers>
