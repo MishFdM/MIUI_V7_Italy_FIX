@@ -19,7 +19,7 @@
         "searchUriIme": "",
         "extra": "default-baidu",
         "icon": "",
-        "iconHash": "baidu",
+        "iconHash": "baidu.png",
         "isDefault": true,
         "isRecommended": true,
         "localOpen": [
@@ -54,7 +54,7 @@
         "searchUriIme": "",
         "extra": "default-sm",
         "icon": "",
-        "iconHash": "sm",
+        "iconHash": "sm.png",
         "localOpen": [
           {
             "key": "by",
