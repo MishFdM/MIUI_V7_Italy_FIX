@@ -47,7 +47,7 @@
         "title_zh_CN": "Bing",
         "key": "2",
         "label": "sm",
-        "searchUriDefault": "http://www.google.com/search?q={searchTerms}&amp;tn=ins",
+        "searchUriDefault": "https://www.bing.com/search?q={searchTerms}&amp;tn=ins",
         "searchUriLauncher": "",
         "searchUriMinus": "",
         "searchUriSystemUI": "",
