@@ -24,7 +24,7 @@
     <header android:icon="@drawable/com_android_thememanager" android:id="@id/theme_settings" android:title="@string/theme_settings_title">
         <intent android:targetPackage="com.android.thememanager" android:targetClass="com.android.thememanager.activity.ThemeSettingsActivity" />
     </header>
-    <header android:icon="@drawable/ic_sound_settings" android:id="@id/sound_settings" android:title="@string/sound_settings" android:fragment="com.android.settings.MiuiSoundSettings" />
+    <header android:icon="@drawable/ic_sound_settings" android:id="@id/sound_settings" android:title="@string/sound_vibrate_settings" android:fragment="com.android.settings.MiuiSoundSettings" />
     <header android:title="@string/system_and_device_section_title" />
     <header android:icon="@drawable/ic_unlock_set_settings" android:id="@id/lock_settings" android:title="@string/lock_settings" android:fragment="com.android.settings.MiuiSecuritySettings" />
     <header android:icon="@drawable/ic_status_bar_settings" android:id="@id/status_bar_settings" android:title="@string/status_bar_settings" android:fragment="com.android.settings.MiuiStatusBarSettings" />
